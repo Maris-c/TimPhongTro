@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ct07.ttn.app-mergeDebugResources-63:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ThanhYen\\.gradle\\caches\\transforms-3\\c7bbbd9c6580e6ac9dc989696fde0bfb\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

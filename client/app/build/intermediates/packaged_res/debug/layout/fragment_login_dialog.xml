@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:background="@drawable/border">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Đăng nhập"
+        android:textColor="@color/black"
+        android:textSize="26sp"
+        android:layout_margin="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="5dp"
+        android:textStyle="bold" />
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/loginPhoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Số điện thoại"
+        android:inputType="number"
+        android:layout_margin="10dp"
+        android:paddingVertical="15dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@color/green_500"
+        android:textColorHint="@color/green_500"/>
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/loginPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:hint="Mật khẩu"
+        android:paddingVertical="15dp"
+        android:layout_margin="10dp"
+        android:layout_marginTop="5dp"
+        android:backgroundTint="@color/green_500"
+        android:textColorHint="@color/green_500"/>
+
+    <TextView
+        android:id="@+id/btnFogotPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="10dp"
+        android:layout_margin="10dp"
+        android:text="Quên mật khẩu?"
+        android:textColor="@color/blue"/>
+
+    <TextView
+        android:id="@+id/btnLogin"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/search_border"
+        android:backgroundTint="@color/green_500"
+        android:text="Đăng nhập"
+        android:layout_margin="10dp"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:textSize="18sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        android:paddingBottom="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chưa có tài khoản?"
+            android:layout_marginEnd="5dp"
+            android:textColor="@color/black_500" />
+        <TextView
+            android:id="@+id/btnRegister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Đăng ký tài khoản mới"
+            android:textColor="@color/blue" />
+    </LinearLayout>
+</LinearLayout>

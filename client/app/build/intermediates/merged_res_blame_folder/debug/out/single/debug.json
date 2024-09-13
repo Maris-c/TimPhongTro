@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_baseline_add_a_photo_24.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\baseline_add_a_photo_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\navigation_room_nav_graph.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\navigation\\room_nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\mipmap-hdpi_room.png.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\mipmap-hdpi\\room.png"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_baseline_check_circle_24.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\baseline_check_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_search_border.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\search_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_fragment_room.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_baseline_arrow_drop_down_24.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\baseline_arrow_drop_down_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_item_ask_login.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\item_ask_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_fragment_login_dialog.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_login_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_activity_room.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\activity_room.xml"
+    },
+    {
+        "merged": "com.ct07.ttn.app-merged_res-65:/layout_fragment_searchs.xml.flat",
+        "source": "com.ct07.ttn.app-main-67:/layout/fragment_searchs.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_fragment_headlines.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_headlines.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_baseline_phone_enabled_24.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\baseline_phone_enabled_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_fragment_register_dialog.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_register_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_baseline_favorite_24.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\baseline_favorite_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_fragment_address_dialog.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_address_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_addimage.png.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\addimage.png"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_baseline_auto_awesome_24.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\baseline_auto_awesome_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_fragment_otp_dialog.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_otp_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_item_room.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\item_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_baseline_auto_awesome_motion_24.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\baseline_auto_awesome_motion_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_fragment_searchs.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_searchs.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_fragment_favourites.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_favourites.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_item_error.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\item_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_fragment_post.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\font_poppins.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\font\\poppins.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_baseline_favorite_border_24.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "com.ct07.ttn.app-merged_res-65:/drawable_baseline_delete_24.xml.flat",
+        "source": "com.ct07.ttn.app-main-67:/drawable/baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_fragment_manager_account.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_manager_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-merged_res-65:\\layout_fragment_manager_post.xml.flat",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_manager_post.xml"
+    }
+]

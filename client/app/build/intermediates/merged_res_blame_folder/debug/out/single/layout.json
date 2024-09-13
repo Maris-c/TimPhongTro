@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\fragment_post.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\fragment_manager_post.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_manager_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\fragment_login_dialog.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_login_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\item_error.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\item_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\item_ask_login.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\item_ask_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\fragment_address_dialog.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_address_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\fragment_favourites.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_favourites.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\fragment_searchs.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_searchs.xml"
+    },
+    {
+        "merged": "com.ct07.ttn.app-mergeDebugResources-64:/layout/fragment_searchs.xml",
+        "source": "com.ct07.ttn.app-main-67:/layout/fragment_searchs.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\activity_room.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\activity_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\fragment_manager_account.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_manager_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\fragment_otp_dialog.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_otp_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\fragment_register_dialog.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_register_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\item_room.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\item_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\fragment_headlines.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_headlines.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\fragment_account.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-mergeDebugResources-64:\\layout\\fragment_room.xml",
+        "source": "C:\\Users\\ThanhYen\\.gradle\\daemon\\8.0\\com.ct07.ttn.app-main-67:\\layout\\fragment_room.xml"
+    }
+]

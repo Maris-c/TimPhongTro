@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tìm trọ nhanh</string>
+    <string name="author">CT07N01_NHOM8</string>
+    <string name="email">lethanhyen.gialai@gmail.com | vtbtuyen2222004@gmail.com</string>
+    <string name="phone">0375440580</string>
+
+    <string name="home">Tìm trọ nhanh</string>
+    <string name="favorite">Tin đã lưu</string>
+    <string name="post">Đăng tin</string>
+    <string name="account">Tài khoản</string>
+    <string name="search">Tìm kiếm theo địa chỉ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

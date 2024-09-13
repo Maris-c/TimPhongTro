@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="@string/post"
+                android:textColor="@color/black"
+                android:textSize="26sp"
+                android:layout_weight="1"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/btnAddPost"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/baseline_check_circle_24"
+                android:backgroundTint="@color/white"
+                android:layout_gravity="center"/>
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <TextView
+            android:id="@+id/txtInformation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:text="Thông tin chung"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/addAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content "
+            android:layout_margin="10dp"
+            android:background="@drawable/search_border"
+            android:drawableEnd="@drawable/baseline_arrow_drop_down_24"
+            android:padding="10dp"
+            android:hint="Địa chỉ"
+            android:textSize="16sp"
+            android:textColorHint="@color/black_500"/>
+
+        <ImageView
+            android:id="@+id/addImage"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:background="@drawable/addimage"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:id="@+id/txtTitleDescription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:text="Tiêu đề và mô tả chi tiết"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/addTitle"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/search_border"
+            android:inputType="text"
+            android:maxLines="1"
+            android:padding="10dp"
+            android:textSize="16sp"
+            android:hint="Tiêu đề bài đăng"
+            android:textColorHint="@color/black_500"/>
+
+        <EditText
+            android:id="@+id/addDescription"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/search_border"
+            android:inputType="text"
+            android:padding="10dp"
+            android:hint="Mô tả chi tiết"
+            android:gravity="start"
+            android:textSize="16sp"
+            android:textColorHint="@color/black_500"/>
+
+        <TextView
+            android:id="@+id/txtPriceArea"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:text="Giá và diện tích"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/addArea"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/search_border"
+            android:inputType="number"
+            android:padding="10dp"
+            android:hint="Diện tích"
+            android:textSize="16sp"
+            android:textColorHint="@color/black_500"/>
+
+        <CheckBox
+            android:id="@+id/addInterior"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/search_border"
+            android:padding="5dp"
+            android:text="Nội thất đầy đủ"
+            android:textSize="16sp"
+            android:textColorHint="@color/black_500"/>
+
+        <EditText
+            android:id="@+id/addPrice"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/search_border"
+            android:inputType="number"
+            android:padding="10dp"
+            android:hint="Giá thuê"
+            android:textSize="16sp"
+            android:textColorHint="@color/black_500"/>
+
+        <EditText
+            android:id="@+id/addDeposits"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/search_border"
+            android:inputType="number"
+            android:padding="10dp"
+            android:hint="Tiền cọc"
+            android:textSize="16sp"
+            android:textColorHint="@color/black_500"/>
+
+        <include
+            android:id="@+id/itemAskLogin"
+            layout="@layout/item_ask_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:visibility="invisible"/>
+
+        <ProgressBar
+            android:id="@+id/paginationProgressBar"
+            style="?attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:visibility="invisible" />
+    </LinearLayout>
+</ScrollView>
