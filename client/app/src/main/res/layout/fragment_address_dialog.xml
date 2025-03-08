@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="20dp"
+    android:padding="20dp"
+    android:background="@drawable/border">
+
+    <AutoCompleteTextView
+        android:id="@+id/addProvince"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Chọn tỉnh, thành phố"
+        android:textSize="16sp"
+        android:padding="15dp"
+        android:gravity="center"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/search_border"
+        android:textColorHint="@color/green_700"/>
+
+    <AutoCompleteTextView
+        android:id="@+id/addDistrict"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Chọn quận, huyện, thị xã"
+        android:textSize="16sp"
+        android:padding="15dp"
+        android:gravity="center"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/search_border"
+        android:textColorHint="@color/green_700"/>
+
+    <AutoCompleteTextView
+        android:id="@+id/addWard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Chọn phường, xã, thị trấn"
+        android:textSize="16sp"
+        android:padding="15dp"
+        android:gravity="center"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/search_border"
+        android:textColorHint="@color/green_700"/>
+
+    <EditText
+        android:id="@+id/addRoad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nhập số nhà, tên đường"
+        android:inputType="text"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:padding="15dp"
+        android:background="@drawable/search_border"
+        android:textColorHint="@color/green_700"/>
+
+</LinearLayout>
